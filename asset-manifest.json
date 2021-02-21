@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/LiveScore/static/css/main.d565b660.chunk.css",
+    "main.js": "/LiveScore/static/js/main.63976f32.chunk.js",
+    "main.js.map": "/LiveScore/static/js/main.63976f32.chunk.js.map",
+    "runtime-main.js": "/LiveScore/static/js/runtime-main.aae3e751.js",
+    "runtime-main.js.map": "/LiveScore/static/js/runtime-main.aae3e751.js.map",
+    "static/js/2.57edf9aa.chunk.js": "/LiveScore/static/js/2.57edf9aa.chunk.js",
+    "static/js/2.57edf9aa.chunk.js.map": "/LiveScore/static/js/2.57edf9aa.chunk.js.map",
+    "static/js/3.8d14e52a.chunk.js": "/LiveScore/static/js/3.8d14e52a.chunk.js",
+    "static/js/3.8d14e52a.chunk.js.map": "/LiveScore/static/js/3.8d14e52a.chunk.js.map",
+    "index.html": "/LiveScore/index.html",
+    "static/css/main.d565b660.chunk.css.map": "/LiveScore/static/css/main.d565b660.chunk.css.map",
+    "static/js/2.57edf9aa.chunk.js.LICENSE.txt": "/LiveScore/static/js/2.57edf9aa.chunk.js.LICENSE.txt",
+    "static/media/vs.c4bd7dc9.png": "/LiveScore/static/media/vs.c4bd7dc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae3e751.js",
+    "static/js/2.57edf9aa.chunk.js",
+    "static/css/main.d565b660.chunk.css",
+    "static/js/main.63976f32.chunk.js"
+  ]
+}
